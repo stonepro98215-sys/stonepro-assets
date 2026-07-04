@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="32" height="32">
+  <circle cx="50" cy="50" r="48" fill="#b06f42"/>
+  <circle cx="50" cy="50" r="47" fill="none" stroke="#f2c89d" stroke-width="1.5" opacity="0.5"/>
+  <circle cx="50" cy="50" r="39" fill="#2b3237" stroke="#3a1e0f" stroke-width="4"/>
+  <polygon points="50,18 78,34 78,66 50,82 22,66 22,34" fill="none" stroke="#c8834f" stroke-width="4"/>
+  <path fill="#f2c89d" fill-rule="evenodd" d="M35 30 L56 30 C66 30 72 36 72 45 C72 54 66 60 56 60 L47 60 L47 72 L35 72 Z M47 40 L55 40 C59 40 61 42 61 45 C61 48 59 50 55 50 L47 50 Z"/>
+</svg>
